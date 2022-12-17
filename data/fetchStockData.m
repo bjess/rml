@@ -7,7 +7,7 @@ function [trainData,testData] = fetchStockData
 % https://www.alphavantage.co/support/#api-key
 
 %%%%%  Enter your api key here
-apikey = '';
+apikey = 'BZFGHX9HORAWS8WZ';
 % Example:
 % apikey = '6XRD9S9SYPOI0M96'; %note this is not a real key
 
